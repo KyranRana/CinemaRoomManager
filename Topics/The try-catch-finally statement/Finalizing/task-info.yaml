@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    try {
+        throwException(data)
+    } catch (e: Exception) {
+        handleException(data)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11815#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 02 Oct 2021 11:58:27 UTC
+record: -1
